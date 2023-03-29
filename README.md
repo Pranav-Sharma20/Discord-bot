@@ -2,7 +2,7 @@
 A ChatGPT powered Discord chatbot built with NodeJS.
 
 ## Public Discord
-You can join the public Discord to try the bot or communicate with me here: https://discord.gg/wMtMXDVhn2
+You can join the public Discord to try the bot or communicate with me here: https://discord.gg/8Rdc2uw3eT
 
 ## Features
 * Multiple Personality Support: Add multiple personalities and depending on how you call the bot, it will respond differently.
