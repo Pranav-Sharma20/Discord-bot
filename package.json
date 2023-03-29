@@ -1,0 +1,21 @@
+{
+  "name": "chatgpt-discord-bot",
+  "version": "2.1.0",
+  "description": "A simple ChatGPT Discord bot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranav-Sharma20/Discord-bot.git"
+  },
+  "author": "Pranav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pranav-Sharma20/Discord-bot/issues"
+  },
+  "homepage": "https://github.com/Pranav-Sharma20/Discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
